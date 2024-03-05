@@ -23,7 +23,7 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 
 ![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
-![jack](assets/img/blog/jack_head_shot.jpg)
+![jack](assets/img/blog/jack_head_shot.jpg){:.lead width="100" height="100" loading="lazy"}
 
 Hydejack's cover page on a variety of screen sizes.
 {:.figcaption}
