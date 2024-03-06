@@ -16,3 +16,5 @@ This page contains all the data challenges I have participated in.
   &mdash; Florian Klampfer (@qwtel)
   <a href="https://twitter.com/qwtel/status/871098943505039362">June 3, 2017</a>
 </blockquote>
+
+<iframe title="Maven Analytics Lego Challenge FINAL5" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTY1OTBkZjAtYjRiNC00YTk2LWFhYjctMmY5ZWY3M2E2Y2I4IiwidCI6IjRlNDc4YWIwLWFjYWUtNGRiNS1hYjA4LTQ0ZjdlOTliNDc1MiJ9" frameborder="0" allowFullScreen="true"></iframe>
