@@ -3,6 +3,7 @@ layout: post
 title: Maven Lego Challenge
 image: 
 sitemap: false
+cover: true
 ---
 
 This page contains my February 2024 Maven Analytics Lego entry.
