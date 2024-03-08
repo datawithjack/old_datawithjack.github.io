@@ -371,6 +371,10 @@ plugins:
 #     - https://github.com/<username>
 
 
+# Adding fav-icon
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/logo.png
+
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
 optional_front_matter:
